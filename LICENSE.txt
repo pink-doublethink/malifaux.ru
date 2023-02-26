@@ -4,4 +4,4 @@ Here are three straightforward guidelines to follow:
 
 2. It's kindly requested that you refrain from duplicating it verbatim.
 
-3. Crediting the author is appreciated.
+3. Remove all of my information by running npm run dev.
