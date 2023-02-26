@@ -1,0 +1,25 @@
+{
+  "colors": {
+    "default": {
+      "theme_color": {
+        "primary": "#C1C8E4",
+        "body": "#2779a7",
+        "border": "#5AB9EA"
+      },
+      "text_color": {
+        "default": "#fff",
+        "dark": "#FF9398"
+      }
+    }
+  },
+  "fonts": {
+    "font_family": {
+      "primary": "Questrial:wght@400;500;600;700",
+      "primary_type": "sans-serif"
+    },
+    "font_size": {
+      "base": "16",
+      "scale": "1.250"
+    }
+  }
+}
