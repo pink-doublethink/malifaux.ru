@@ -3,7 +3,7 @@
 ----
 - Enclosed within this repository is the website source code designed for collecting translated articles concerning the board game Malifaux. This initiative was established in collaboration with the Malifaux VK group's administrators.
 
-- [Live Demo](malifaux.ru)
+- [Live Demo](http://malifaux.ru)
 
 ----
 ## Local setup
