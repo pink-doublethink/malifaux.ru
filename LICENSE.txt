@@ -1,7 +1,0 @@
-Here are three straightforward guidelines to follow:
-
-1. You have the liberty to take inspiration from this code.
-
-2. It's kindly requested that you refrain from duplicating it verbatim.
-
-3. Remove all of my information by running npm run dev.
