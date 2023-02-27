@@ -1,0 +1,16 @@
+{
+    "static": [
+      {
+        "title": "Все сообщения",
+        "url": "/"
+      },
+      {
+        "title": "Где поиграть?",
+        "url": "/where-to-play"
+      },
+      {
+        "title": "Что такое Малифо?",
+        "url": "/what-is-malifaux"
+      }
+    ]
+}
