@@ -3,14 +3,14 @@
 @tailwind utilities;
 
 @layer base {
-  @import "base";
+  @import 'base';
 }
 
 @layer components {
-  @import "components";
-  @import "buttons";
+  @import 'components';
+  @import 'buttons';
 }
 
 @layer fonts {
-  @import "fonts";
+  @import 'fonts';
 }

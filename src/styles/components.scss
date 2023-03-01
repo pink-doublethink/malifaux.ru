@@ -15,11 +15,9 @@
   @apply border border-border bg-transparent py-3 px-5 placeholder:text-text/50 focus:border-border focus:bg-[#202e3c] focus:ring-transparent;
 }
 
-
 .card {
   @apply rounded border border-border p-6 lg:p-9;
 }
-
 
 .tab-item {
   h5 {
