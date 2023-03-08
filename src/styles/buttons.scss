@@ -1,0 +1,7 @@
+.btn {
+  @apply inline-block border px-4 py-[11px] font-normal transition;
+}
+
+.btn-primary {
+  @apply rounded border-none bg-white text-black no-underline hover:bg-primary;
+}

@@ -1,0 +1,25 @@
+{
+    "colors": {
+      "default": {
+        "themeColor": {
+          "primary": "#ff9398", 
+          "body": "#49484C", 
+          "border": "#557a95"  
+        },
+        "textColor": {
+          "default": "#fefbfa", 
+          "headlines": "#f3e0dc" 
+        }
+      }
+    },
+    "fonts": {
+      "fontFamily": {
+        "font": "Nunito Sans:wght@400;500;600;700",
+        "fontType": "sans-serif"
+      },
+      "fontSize": {
+        "base": "17",
+        "scale": "1.2"
+      }
+    }
+}
