@@ -1,13 +1,29 @@
-import { Html, Head, Main, NextScript } from 'next/document'
+import config from "@config/config.json";
+import { Head, Html, Main, NextScript } from "next/document";
 
-export default function Document() {
+const Document = () => {
+  const { favicon } = config.site;
   return (
     <Html lang="en">
-      <Head />
+      <Head>
+        <link rel="shortcut icon" href={favicon} />
+        <meta
+          name="theme-color"
+          media="(prefers-color-scheme: light)"
+          content="#fff"
+        />
+        <meta
+          name="theme-color"
+          media="(prefers-color-scheme: dark)"
+          content="#000"
+        />
+      </Head>
       <body>
         <Main />
         <NextScript />
       </body>
     </Html>
-  )
-}
+  );
+};
+
+export default Document;

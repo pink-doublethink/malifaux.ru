@@ -1,0 +1,25 @@
+{
+  "colors": {
+    "default": {
+      "theme_color": {
+        "primary": "#ff9398", 
+        "body": "#49484C", 
+        "border": "#557a95" 
+      },
+      "text_color": {
+        "default": "#ffffff", 
+        "dark": "#f3e0dc" 
+      }
+    }
+  },
+  "fonts": {
+    "font_family": {
+      "primary": "Golos+Text:wght@400;500;600;700",
+      "primary_type": "sans-serif"
+    },
+    "font_size": {
+      "base": "20",
+      "scale": "1.25"
+    }
+  }
+}
