@@ -1,4 +1,5 @@
 import Pagination from "@components/Pagination";
+import Base from "@layouts/Baseof";
 import config from "@config/config.json";
 import Post from "@layouts/components/Post";
 import { getSinglePage } from "@lib/contentParser";
@@ -16,24 +17,26 @@ const BlogPagination = ({ posts, currentPage, pagination }) => {
   );
 
   return (
-    <div className="section container">
-      <div className="row">
-        <div className="mx-auto lg:col-10">
-          <div className="row">
-            {currentPosts.map((post, i) => (
-              <Post
-                className="col-12 mb-6 sm:col-6"
-                key={"key-" + i}
-                post={post}
-              />
-            ))}
+    <Base>
+      <div className="section container">
+        <div className="row">
+          <div className="mx-auto lg:col-10">
+            <div className="row">
+              {currentPosts.map((post, i) => (
+                <Post
+                  className="col-12 mb-6 sm:col-6"
+                  key={"key-" + i}
+                  post={post}
+                />
+              ))}
+            </div>
           </div>
         </div>
+        <div className="mt-12">
+          <Pagination totalPages={totalPages} currentPage={currentPage} />
+        </div>
       </div>
-      <div className="mt-12">
-        <Pagination totalPages={totalPages} currentPage={currentPage} />
-      </div>
-    </div>
+    </Base>
   );
 };
 
