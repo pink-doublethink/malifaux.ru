@@ -57,7 +57,7 @@ const PostSingle = ({ post, mdxContent, slug, posts }) => {
                       {categories.map((category, i) => (
                         <li className="inline-block" key={`category-${i}`}>
                           <Link
-                            href={`/categories/${slugify(category)}`}
+                            href={`/categories/${slugify(category).replace(/\s+/g, '-')}`}
                             className="mr-3 text-primary"
                           >
                             {humanize(category)}

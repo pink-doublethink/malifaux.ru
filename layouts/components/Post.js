@@ -12,7 +12,7 @@ const Post = ({ post, className }) => {
             <li key={index}>
               <Link
                 className="text-primary"
-                href={`/categories/${category.toLowerCase()}`}
+                href={`/categories/${category.toLowerCase().replace(/\s+/g, '-')}`}
               >
                 {category}
               </Link>
