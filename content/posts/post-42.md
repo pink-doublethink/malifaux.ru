@@ -227,7 +227,7 @@ reading: "11 минут чтения"
 Сомер не сомневался: скоро он это выяснит.
 
 
-Продолжение по [ссылке](http://malifaux.ru/posts/post-43).
+Продолжение по [ссылке](http://malifaux.vercel.app/posts/post-43).
 
 
 

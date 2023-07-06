@@ -98,7 +98,7 @@ reading: "6 минут чтения"
 
 
 
-Продолжение по [ссылке](http://malifaux.ru/posts/post-39).
+Продолжение по [ссылке](http://malifaux.vercel.app/posts/post-39).
 
 
 **Автор перевода** - Игорь Терехов

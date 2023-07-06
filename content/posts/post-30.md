@@ -10,7 +10,6 @@ categories:
   - Guild
   - Resurrectionists
   - Neverborn
-  - Explorers Society
 draft: false
 reading: "15 минут чтения"
 ---

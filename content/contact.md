@@ -11,442 +11,442 @@ draft: false
 ----
 
 
-- [Куси-Куси](http://malifaux.ru/posts/post-53)
+- [Куси-Куси](http://malifaux.vercel.app/posts/post-53)
 
-- [Темный Карнавал](http://malifaux.ru/posts/post-52)
+- [Темный Карнавал](http://malifaux.vercel.app/posts/post-52)
 
-- [Потаенная музыка](http://malifaux.ru/posts/post-51)
+- [Потаенная музыка](http://malifaux.vercel.app/posts/post-51)
 
-- [Шкатулка с секретом](http://malifaux.ru/posts/post-15)  
+- [Шкатулка с секретом](http://malifaux.vercel.app/posts/post-15)  
 
-- [Мисаки. Падение во Тьму](http://malifaux.ru/posts/post-126)
+- [Мисаки. Падение во Тьму](http://malifaux.vercel.app/posts/post-126)
 
-- [Личико под маской лжи](http://malifaux.ru/posts/post-50)
+- [Личико под маской лжи](http://malifaux.vercel.app/posts/post-50)
 
-- [Упасть, чтобы взлететь](http://malifaux.ru/posts/post-49)
+- [Упасть, чтобы взлететь](http://malifaux.vercel.app/posts/post-49)
 
-- [My Name is Master](http://malifaux.ru/posts/post-135)
+- [My Name is Master](http://malifaux.vercel.app/posts/post-135)
 
-- [Dear Kristen](http://malifaux.ru/posts/post-134)
+- [Dear Kristen](http://malifaux.vercel.app/posts/post-134)
 
-- [Seamus and Ortegas](http://malifaux.ru/posts/post-21)  
+- [Seamus and Ortegas](http://malifaux.vercel.app/posts/post-21)  
 
--  [Til Gran Kythera Dow](http://malifaux.ru/posts/post-22)
+-  [Til Gran Kythera Dow](http://malifaux.vercel.app/posts/post-22)
 
 ----
 ##### Новые рубежи
 ----
-- [Часть 1](http://malifaux.ru/posts/post-1)  
+- [Часть 1](http://malifaux.vercel.app/posts/post-1)  
 
-- [Часть 2](http://malifaux.ru/posts/post-2)  
+- [Часть 2](http://malifaux.vercel.app/posts/post-2)  
 
-- [Часть 3](http://malifaux.ru/posts/post-3)
+- [Часть 3](http://malifaux.vercel.app/posts/post-3)
 
-- [Часть 4](http://malifaux.ru/posts/post-4) 
+- [Часть 4](http://malifaux.vercel.app/posts/post-4) 
 
 ----
 ##### Переменчивая преданность
 ----
-- [Часть 1](http://malifaux.ru/posts/post-5)  
+- [Часть 1](http://malifaux.vercel.app/posts/post-5)  
 
-- [Часть 2](http://malifaux.ru/posts/post-6)
+- [Часть 2](http://malifaux.vercel.app/posts/post-6)
 
-- [Часть 3](http://malifaux.ru/posts/post-7)
+- [Часть 3](http://malifaux.vercel.app/posts/post-7)
 
-- [Часть 4](http://malifaux.ru/posts/post-8)
+- [Часть 4](http://malifaux.vercel.app/posts/post-8)
 
-- [Часть 5](http://malifaux.ru/posts/post-9)
+- [Часть 5](http://malifaux.vercel.app/posts/post-9)
 
-- [Часть 6](http://malifaux.ru/posts/post-10)
+- [Часть 6](http://malifaux.vercel.app/posts/post-10)
 
-- [Часть 7](http://malifaux.ru/posts/post-11)
+- [Часть 7](http://malifaux.vercel.app/posts/post-11)
 
 ----
 ##### LED ZIPP'LIN
 ----
-- [Часть 1](http://malifaux.ru/posts/post-12)
+- [Часть 1](http://malifaux.vercel.app/posts/post-12)
 
-- [Часть 2](http://malifaux.ru/posts/post-13)
+- [Часть 2](http://malifaux.vercel.app/posts/post-13)
 
-- [Часть 3](http://malifaux.ru/posts/post-14)
+- [Часть 3](http://malifaux.vercel.app/posts/post-14)
 
 
 ----
 ##### Немезида
 ----
-- [Часть 1](http://malifaux.ru/posts/post-16)
+- [Часть 1](http://malifaux.vercel.app/posts/post-16)
 
-- [Часть 2](http://malifaux.ru/posts/post-17)
+- [Часть 2](http://malifaux.vercel.app/posts/post-17)
 
 ----
 ##### Болотный Сходняк
 ----
-- [Часть 1](http://malifaux.ru/posts/post-38)
+- [Часть 1](http://malifaux.vercel.app/posts/post-38)
 
-- [Часть 2](http://malifaux.ru/posts/post-39)
+- [Часть 2](http://malifaux.vercel.app/posts/post-39)
 
 ----
 ##### Цена Свинины
 
 ----
-- [Часть 1](http://malifaux.ru/posts/post-40)
+- [Часть 1](http://malifaux.vercel.app/posts/post-40)
 
-- [Часть 2](http://malifaux.ru/posts/post-41)
+- [Часть 2](http://malifaux.vercel.app/posts/post-41)
 
 ----
 ##### Пуля
 
 ----
-- [Часть 1](http://malifaux.ru/posts/post-42)
+- [Часть 1](http://malifaux.vercel.app/posts/post-42)
 
-- [Часть 2](http://malifaux.ru/posts/post-43)
+- [Часть 2](http://malifaux.vercel.app/posts/post-43)
 
-- [Часть 3](http://malifaux.ru/posts/post-44)
+- [Часть 3](http://malifaux.vercel.app/posts/post-44)
 
-- [Часть 4](http://malifaux.ru/posts/post-45)
+- [Часть 4](http://malifaux.vercel.app/posts/post-45)
 
 ----
 ##### Гремлин Генерал
 
 ----
-- [Часть 1](http://malifaux.ru/posts/post-46)
+- [Часть 1](http://malifaux.vercel.app/posts/post-46)
 
-- [Часть 2](http://malifaux.ru/posts/post-47)
+- [Часть 2](http://malifaux.vercel.app/posts/post-47)
 
-- [Часть 3](http://malifaux.ru/posts/post-48)
+- [Часть 3](http://malifaux.vercel.app/posts/post-48)
 
 ----
 ##### Дневник Эмилии Бельроуз
 
 ----
-- [Часть 1](http://malifaux.ru/posts/post-56)
+- [Часть 1](http://malifaux.vercel.app/posts/post-56)
 
-- [Часть 2](http://malifaux.ru/posts/post-57)
+- [Часть 2](http://malifaux.vercel.app/posts/post-57)
 
-- [Часть 3](http://malifaux.ru/posts/post-58)
+- [Часть 3](http://malifaux.vercel.app/posts/post-58)
 
-- [Часть 4](http://malifaux.ru/posts/post-66)
+- [Часть 4](http://malifaux.vercel.app/posts/post-66)
 
-- [Часть 5](http://malifaux.ru/posts/post-59)
+- [Часть 5](http://malifaux.vercel.app/posts/post-59)
 
-- [Часть 6](http://malifaux.ru/posts/post-60)
+- [Часть 6](http://malifaux.vercel.app/posts/post-60)
 
-- [Часть 7](http://malifaux.ru/posts/post-61)
+- [Часть 7](http://malifaux.vercel.app/posts/post-61)
 
-- [Часть 8](http://malifaux.ru/posts/post-62)
+- [Часть 8](http://malifaux.vercel.app/posts/post-62)
 
-- [Часть 9](http://malifaux.ru/posts/post-63)
+- [Часть 9](http://malifaux.vercel.app/posts/post-63)
 
-- [Часть 10](http://malifaux.ru/posts/post-64)
+- [Часть 10](http://malifaux.vercel.app/posts/post-64)
 
-- [Часть 11](http://malifaux.ru/posts/post-65)
+- [Часть 11](http://malifaux.vercel.app/posts/post-65)
 
-- [Часть 12](http://malifaux.ru/posts/post-68)
+- [Часть 12](http://malifaux.vercel.app/posts/post-68)
 
-- [Часть 13](http://malifaux.ru/posts/post-67)
+- [Часть 13](http://malifaux.vercel.app/posts/post-67)
 
-- [Часть 14](http://malifaux.ru/posts/post-69)
+- [Часть 14](http://malifaux.vercel.app/posts/post-69)
 
-- [Часть 15](http://malifaux.ru/posts/post-70)
+- [Часть 15](http://malifaux.vercel.app/posts/post-70)
 
-- [Часть 16](http://malifaux.ru/posts/post-71)
+- [Часть 16](http://malifaux.vercel.app/posts/post-71)
 
-- [Часть 17](http://malifaux.ru/posts/post-72)
+- [Часть 17](http://malifaux.vercel.app/posts/post-72)
 
-- [Часть 18](http://malifaux.ru/posts/post-73)
+- [Часть 18](http://malifaux.vercel.app/posts/post-73)
 
-- [Часть 19](http://malifaux.ru/posts/post-74)
+- [Часть 19](http://malifaux.vercel.app/posts/post-74)
 
-- [Часть 20](http://malifaux.ru/posts/post-75)
+- [Часть 20](http://malifaux.vercel.app/posts/post-75)
 
-- [Часть 21](http://malifaux.ru/posts/post-76)
+- [Часть 21](http://malifaux.vercel.app/posts/post-76)
 
-- [Часть 22](http://malifaux.ru/posts/post-77)
+- [Часть 22](http://malifaux.vercel.app/posts/post-77)
 
-- [Часть 23](http://malifaux.ru/posts/post-78)
+- [Часть 23](http://malifaux.vercel.app/posts/post-78)
 
-- [Часть 24](http://malifaux.ru/posts/post-79)
+- [Часть 24](http://malifaux.vercel.app/posts/post-79)
 
-- [Часть 25](http://malifaux.ru/posts/post-80)
+- [Часть 25](http://malifaux.vercel.app/posts/post-80)
 
 ----
 ##### Покойницкий бал
 
 ----
-- [Часть 1](http://malifaux.ru/posts/post-81)
+- [Часть 1](http://malifaux.vercel.app/posts/post-81)
 
-- [Часть 2](http://malifaux.ru/posts/post-82)
+- [Часть 2](http://malifaux.vercel.app/posts/post-82)
 
-- [Часть 3](http://malifaux.ru/posts/post-83)
+- [Часть 3](http://malifaux.vercel.app/posts/post-83)
 
 ----
 ##### Коробка-головоломка
 
 ----
-- [Часть 1](http://malifaux.ru/posts/post-153)
+- [Часть 1](http://malifaux.vercel.app/posts/post-153)
 
-- [Часть 2](http://malifaux.ru/posts/post-154)
+- [Часть 2](http://malifaux.vercel.app/posts/post-154)
 
-- [Часть 3](http://malifaux.ru/posts/post-155)
+- [Часть 3](http://malifaux.vercel.app/posts/post-155)
 
 
 ----
 ##### Как Вверху, Так И Внизу
 
 ----
-- [Часть 1](http://malifaux.ru/posts/post-129)
+- [Часть 1](http://malifaux.vercel.app/posts/post-129)
 
-- [Часть 2](http://malifaux.ru/posts/post-130)
+- [Часть 2](http://malifaux.vercel.app/posts/post-130)
 
-- [Часть 3](http://malifaux.ru/posts/post-131)
+- [Часть 3](http://malifaux.vercel.app/posts/post-131)
 
 
 ----
 ##### Кое-что о Молли
 
 ----
-- [Часть 1](http://malifaux.ru/posts/post-132)
+- [Часть 1](http://malifaux.vercel.app/posts/post-132)
 
-- [Часть 2](http://malifaux.ru/posts/post-133)
+- [Часть 2](http://malifaux.vercel.app/posts/post-133)
 
 
 ----
 ##### Безумие Малифо
 
 ----
-- [Часть 1](http://malifaux.ru/posts/post-136)
+- [Часть 1](http://malifaux.vercel.app/posts/post-136)
 
-- [Часть 2](http://malifaux.ru/posts/post-137)
+- [Часть 2](http://malifaux.vercel.app/posts/post-137)
 
-- [Часть 3](http://malifaux.ru/posts/post-138)
+- [Часть 3](http://malifaux.vercel.app/posts/post-138)
 
-- [Часть 4](http://malifaux.ru/posts/post-139)
+- [Часть 4](http://malifaux.vercel.app/posts/post-139)
 
-- [Часть 5](http://malifaux.ru/posts/post-140)
+- [Часть 5](http://malifaux.vercel.app/posts/post-140)
 
-- [Часть 6](http://malifaux.ru/posts/post-141)
+- [Часть 6](http://malifaux.vercel.app/posts/post-141)
 
-- [Часть 7](http://malifaux.ru/posts/post-142)
+- [Часть 7](http://malifaux.vercel.app/posts/post-142)
 
-- [Часть 8](http://malifaux.ru/posts/post-143)
+- [Часть 8](http://malifaux.vercel.app/posts/post-143)
 
-- [Часть 9](http://malifaux.ru/posts/post-144)
+- [Часть 9](http://malifaux.vercel.app/posts/post-144)
 
-- [Часть 10](http://malifaux.ru/posts/post-145)
+- [Часть 10](http://malifaux.vercel.app/posts/post-145)
 
-- [Часть 11](http://malifaux.ru/posts/post-146)
+- [Часть 11](http://malifaux.vercel.app/posts/post-146)
 
-- [Часть 12](http://malifaux.ru/posts/post-147)
+- [Часть 12](http://malifaux.vercel.app/posts/post-147)
 
-- [Часть 13](http://malifaux.ru/posts/post-148)
+- [Часть 13](http://malifaux.vercel.app/posts/post-148)
 
-- [Часть 14](http://malifaux.ru/posts/post-149)
+- [Часть 14](http://malifaux.vercel.app/posts/post-149)
 
-- [Часть 15](http://malifaux.ru/posts/post-201)
+- [Часть 15](http://malifaux.vercel.app/posts/post-201)
 
-- [Часть 16](http://malifaux.ru/posts/post-203)
+- [Часть 16](http://malifaux.vercel.app/posts/post-203)
 
 
 ----
 ### Общие описания персонажей и локаций
 ----
-- [Десять Пиков](http://malifaux.ru/posts/post-27)
+- [Десять Пиков](http://malifaux.vercel.app/posts/post-27)
 
-- [Основные населенные пункты Северных Холмов](http://malifaux.ru/posts/post-18)
+- [Основные населенные пункты Северных Холмов](http://malifaux.vercel.app/posts/post-18)
 
-- [Фракции Северных Холмов. Часть 1](http://malifaux.ru/posts/post-29)
+- [Фракции Северных Холмов. Часть 1](http://malifaux.vercel.app/posts/post-29)
 
-- [Фракции Северных Холмов. Часть 2](http://malifaux.ru/posts/post-30)
+- [Фракции Северных Холмов. Часть 2](http://malifaux.vercel.app/posts/post-30)
 
-- [Общие сведения о Северных Холмах](http://malifaux.ru/posts/post-33)
+- [Общие сведения о Северных Холмах](http://malifaux.vercel.app/posts/post-33)
 
-- [Жизнь в Северных Холмах](http://malifaux.ru/posts/post-31)
+- [Жизнь в Северных Холмах](http://malifaux.vercel.app/posts/post-31)
 
-- [Футпринтс](http://malifaux.ru/posts/post-32)
+- [Футпринтс](http://malifaux.vercel.app/posts/post-32)
 
-- [Город Малифо: от Разлома и до трущоб](http://malifaux.ru/posts/post-34)
+- [Город Малифо: от Разлома и до трущоб](http://malifaux.vercel.app/posts/post-34)
 
-- [Город Малифо: от Трущоб и до конца](http://malifaux.ru/posts/post-35)
+- [Город Малифо: от Трущоб и до конца](http://malifaux.vercel.app/posts/post-35)
 
-- [Фракции Малифо](http://malifaux.ru/posts/post-36)
+- [Фракции Малифо](http://malifaux.vercel.app/posts/post-36)
 
-- [Гремлины](http://malifaux.ru/posts/post-37)
+- [Гремлины](http://malifaux.vercel.app/posts/post-37)
 
-- [Невиновность: Маски сорваны](http://malifaux.ru/posts/post-54)
+- [Невиновность: Маски сорваны](http://malifaux.vercel.app/posts/post-54)
 
-- [Невиновность сегодня](http://malifaux.ru/posts/post-55)
+- [Невиновность сегодня](http://malifaux.vercel.app/posts/post-55)
 
-- [Мастера Общества Исследователей](http://malifaux.ru/posts/post-173)
+- [Мастера Общества Исследователей](http://malifaux.vercel.app/posts/post-173)
 
-- [Об Исследователях](http://malifaux.ru/posts/post-84)
+- [Об Исследователях](http://malifaux.vercel.app/posts/post-84)
 
-- Подручные [Ивана](http://malifaux.ru/posts/post-174)
+- Подручные [Ивана](http://malifaux.vercel.app/posts/post-174)
 
-- Подручные [Нексуса](http://malifaux.ru/posts/post-175)
+- Подручные [Нексуса](http://malifaux.vercel.app/posts/post-175)
 
-- Подручные [Максин Агассиз](http://malifaux.ru/posts/post-176)
+- Подручные [Максин Агассиз](http://malifaux.vercel.app/posts/post-176)
 
-- Подручные [Джедзы](http://malifaux.ru/posts/post-177)
+- Подручные [Джедзы](http://malifaux.vercel.app/posts/post-177)
 
-- Подручные  [Ани Лукарайен](http://malifaux.ru/posts/post-178)
+- Подручные  [Ани Лукарайен](http://malifaux.vercel.app/posts/post-178)
 
-- Универсальные модели [Исследователей](http://malifaux.ru/posts/post-179)
+- Универсальные модели [Исследователей](http://malifaux.vercel.app/posts/post-179)
 
-- Подручные [Купера](http://malifaux.ru/posts/post-180)
+- Подручные [Купера](http://malifaux.vercel.app/posts/post-180)
 
-- [Гильдия](http://malifaux.ru/posts/post-202) из «Malifaux Burns»
+- [Гильдия](http://malifaux.vercel.app/posts/post-202) из «Malifaux Burns»
 
-- [Воскрешатели](http://malifaux.ru/posts/post-181) из «Malifaux Burns»
+- [Воскрешатели](http://malifaux.vercel.app/posts/post-181) из «Malifaux Burns»
 
-- Титулы [Воскрешателей](http://malifaux.ru/posts/post-182)
+- Титулы [Воскрешателей](http://malifaux.vercel.app/posts/post-182)
 
-- [Арканисты](http://malifaux.ru/posts/post-183) из «Malifaux Burns»
+- [Арканисты](http://malifaux.vercel.app/posts/post-183) из «Malifaux Burns»
 
-- Титулы [Арканистов](http://malifaux.ru/posts/post-184)
+- Титулы [Арканистов](http://malifaux.vercel.app/posts/post-184)
 
-- [Нерожденные](http://malifaux.ru/posts/post-185) из «Malifaux Burns»
+- [Нерожденные](http://malifaux.vercel.app/posts/post-185) из «Malifaux Burns»
 
-- Титулы [Нерожденных](http://malifaux.ru/posts/post-186)
+- Титулы [Нерожденных](http://malifaux.vercel.app/posts/post-186)
 
-- [Изгои](http://malifaux.ru/posts/post-187) из «Malifaux Burns»
+- [Изгои](http://malifaux.vercel.app/posts/post-187) из «Malifaux Burns»
 
-- Титулы [Изгоев](http://malifaux.ru/posts/post-188)
+- Титулы [Изгоев](http://malifaux.vercel.app/posts/post-188)
 
-- [Гремлины](http://malifaux.ru/posts/post-189) из «Malifaux Burns»
+- [Гремлины](http://malifaux.vercel.app/posts/post-189) из «Malifaux Burns»
 
-- Титулы [Гремлинов](http://malifaux.ru/posts/post-190)
+- Титулы [Гремлинов](http://malifaux.vercel.app/posts/post-190)
 
-- [Десять Громов](http://malifaux.ru/posts/post-191) из «Malifaux Burns»
+- [Десять Громов](http://malifaux.vercel.app/posts/post-191) из «Malifaux Burns»
 
-- Титулы [Десяти Громов](http://malifaux.ru/posts/post-192)
+- Титулы [Десяти Громов](http://malifaux.vercel.app/posts/post-192)
 
-- Титулы [Исследователей](http://malifaux.ru/posts/post-193)
+- Титулы [Исследователей](http://malifaux.vercel.app/posts/post-193)
 
-- [Исследователи](http://malifaux.ru/posts/post-194) из «Malifaux Burns»
+- [Исследователи](http://malifaux.vercel.app/posts/post-194) из «Malifaux Burns»
 
-- [Гарольд Тулл](http://malifaux.ru/posts/post-195)
+- [Гарольд Тулл](http://malifaux.vercel.app/posts/post-195)
 
-- [Дэмиен Рэвенкрофт](http://malifaux.ru/posts/post-196)
+- [Дэмиен Рэвенкрофт](http://malifaux.vercel.app/posts/post-196)
 
-- [Касторе](http://malifaux.ru/posts/post-197)
+- [Касторе](http://malifaux.vercel.app/posts/post-197)
 
-- [Клампетты](http://malifaux.ru/posts/post-198)
+- [Клампетты](http://malifaux.vercel.app/posts/post-198)
 
-- [Лин Ли](http://malifaux.ru/posts/post-199)
+- [Лин Ли](http://malifaux.vercel.app/posts/post-199)
 
-- [Тири](http://malifaux.ru/posts/post-200)
+- [Тири](http://malifaux.vercel.app/posts/post-200)
 
 ----
 ##### История Малифо
 
 ----
-- [Часть 1](http://malifaux.ru/posts/post-23)
+- [Часть 1](http://malifaux.vercel.app/posts/post-23)
 
-- [Часть 2](http://malifaux.ru/posts/post-24)
+- [Часть 2](http://malifaux.vercel.app/posts/post-24)
 
-- [Часть 3](http://malifaux.ru/posts/post-25)
+- [Часть 3](http://malifaux.vercel.app/posts/post-25)
 
-- [Часть 4](http://malifaux.ru/posts/post-26)
+- [Часть 4](http://malifaux.vercel.app/posts/post-26)
 
 
 ----
 ##### Карантинная зона
 
 ----
--  [Часть 1](http://malifaux.ru/posts/post-85)
+-  [Часть 1](http://malifaux.vercel.app/posts/post-85)
 
--  [Часть 2](http://malifaux.ru/posts/post-86)
+-  [Часть 2](http://malifaux.vercel.app/posts/post-86)
 
--  [Часть 3](http://malifaux.ru/posts/post-87)
+-  [Часть 3](http://malifaux.vercel.app/posts/post-87)
 
--  [Часть 4](http://malifaux.ru/posts/post-88)
+-  [Часть 4](http://malifaux.vercel.app/posts/post-88)
 
--  [Часть 5](http://malifaux.ru/posts/post-89)
+-  [Часть 5](http://malifaux.vercel.app/posts/post-89)
 
--  [Часть 6](http://malifaux.ru/posts/post-90)
+-  [Часть 6](http://malifaux.vercel.app/posts/post-90)
 
--  [Часть 7](http://malifaux.ru/posts/post-91)
+-  [Часть 7](http://malifaux.vercel.app/posts/post-91)
 
--  [Часть 8](http://malifaux.ru/posts/post-92)
+-  [Часть 8](http://malifaux.vercel.app/posts/post-92)
 
--  [Часть 9](http://malifaux.ru/posts/post-93)
+-  [Часть 9](http://malifaux.vercel.app/posts/post-93)
 
--  [Часть 10](http://malifaux.ru/posts/post-94)
+-  [Часть 10](http://malifaux.vercel.app/posts/post-94)
 
--  [Часть 11](http://malifaux.ru/posts/post-26)
+-  [Часть 11](http://malifaux.vercel.app/posts/post-26)
 
 
 ----
 ##### Бестиарий «Из кошмаров»
 
 ----
-- [Часть 1](http://malifaux.ru/posts/post-96)
+- [Часть 1](http://malifaux.vercel.app/posts/post-96)
 
-- [Часть 2](http://malifaux.ru/posts/post-97)
+- [Часть 2](http://malifaux.vercel.app/posts/post-97)
 
-- [Часть 3](http://malifaux.ru/posts/post-98)
+- [Часть 3](http://malifaux.vercel.app/posts/post-98)
 
-- [Часть 4](http://malifaux.ru/posts/post-99)
+- [Часть 4](http://malifaux.vercel.app/posts/post-99)
 
-- [Часть 5](http://malifaux.ru/posts/post-100)
+- [Часть 5](http://malifaux.vercel.app/posts/post-100)
 
-- [Часть 6](http://malifaux.ru/posts/post-101)
+- [Часть 6](http://malifaux.vercel.app/posts/post-101)
 
 ----
 ##### История Нерожденных
 
 ----
-- [Часть 1](http://malifaux.ru/posts/post-102)
+- [Часть 1](http://malifaux.vercel.app/posts/post-102)
 
-- [Часть 2](http://malifaux.ru/posts/post-103)
+- [Часть 2](http://malifaux.vercel.app/posts/post-103)
 
-- [Часть 3](http://malifaux.ru/posts/post-104)
+- [Часть 3](http://malifaux.vercel.app/posts/post-104)
 
-- [Часть 4](http://malifaux.ru/posts/post-105)
+- [Часть 4](http://malifaux.vercel.app/posts/post-105)
 
-- [Часть 5](http://malifaux.ru/posts/post-106)
+- [Часть 5](http://malifaux.vercel.app/posts/post-106)
 
-- [Часть 6](http://malifaux.ru/posts/post-107)
+- [Часть 6](http://malifaux.vercel.app/posts/post-107)
 
-- [Часть 7](http://malifaux.ru/posts/post-108)
+- [Часть 7](http://malifaux.vercel.app/posts/post-108)
 
-- [Часть 8](http://malifaux.ru/posts/post-109)
+- [Часть 8](http://malifaux.vercel.app/posts/post-109)
 
-- [Часть 9](http://malifaux.ru/posts/post-110)
+- [Часть 9](http://malifaux.vercel.app/posts/post-110)
 
 ----
 ##### Виды Нерожденных
 
 ----
-- [Часть 1](http://malifaux.ru/posts/post-111)
+- [Часть 1](http://malifaux.vercel.app/posts/post-111)
 
-- [Часть 2](http://malifaux.ru/posts/post-112)
+- [Часть 2](http://malifaux.vercel.app/posts/post-112)
 
-- [Часть 3](http://malifaux.ru/posts/post-113)
+- [Часть 3](http://malifaux.vercel.app/posts/post-113)
 
-- [Часть 4](http://malifaux.ru/posts/post-114)
+- [Часть 4](http://malifaux.vercel.app/posts/post-114)
 
-- [Часть 5](http://malifaux.ru/posts/post-115)
+- [Часть 5](http://malifaux.vercel.app/posts/post-115)
 
-- [Часть 6](http://malifaux.ru/posts/post-116)
+- [Часть 6](http://malifaux.vercel.app/posts/post-116)
 
-- [Часть 7](http://malifaux.ru/posts/post-117)
+- [Часть 7](http://malifaux.vercel.app/posts/post-117)
 
 ----
 ##### Бестиарий Десяти Громов
 
 ----
-- [Часть 1](http://malifaux.ru/posts/post-122)
+- [Часть 1](http://malifaux.vercel.app/posts/post-122)
 
-- [Часть 2](http://malifaux.ru/posts/post-123)
+- [Часть 2](http://malifaux.vercel.app/posts/post-123)
 
-- [Часть 3](http://malifaux.ru/posts/post-124)
+- [Часть 3](http://malifaux.vercel.app/posts/post-124)
 
-- [Часть 4](http://malifaux.ru/posts/post-125)
+- [Часть 4](http://malifaux.vercel.app/posts/post-125)
 
-- [Часть 5](http://malifaux.ru/posts/post-126)
+- [Часть 5](http://malifaux.vercel.app/posts/post-126)
 
-- [Часть 6](http://malifaux.ru/posts/post-127)
+- [Часть 6](http://malifaux.vercel.app/posts/post-127)
 
 
 ----
@@ -454,92 +454,92 @@ draft: false
 
 ----
 
-- [Битва за Лондон](http://malifaux.ru/posts/post-168)
+- [Битва за Лондон](http://malifaux.vercel.app/posts/post-168)
 
 -----
 ##### Абиссиния
 
 ----
-- [Часть 1](http://malifaux.ru/posts/post-156)
+- [Часть 1](http://malifaux.vercel.app/posts/post-156)
 
-- [Часть 2](http://malifaux.ru/posts/post-157)
+- [Часть 2](http://malifaux.vercel.app/posts/post-157)
 
-- [Часть 3](http://malifaux.ru/posts/post-158)
+- [Часть 3](http://malifaux.vercel.app/posts/post-158)
 
 -----
 ##### Королевская Империя
 
 ----
-- [Часть 1](http://malifaux.ru/posts/post-159)
+- [Часть 1](http://malifaux.vercel.app/posts/post-159)
 
-- [Часть 2](http://malifaux.ru/posts/post-160)
+- [Часть 2](http://malifaux.vercel.app/posts/post-160)
 
-- [Часть 3](http://malifaux.ru/posts/post-161)
+- [Часть 3](http://malifaux.vercel.app/posts/post-161)
 
 -----
 ##### Культ Горящего Человека
 
 ----
-- [Часть 1](http://malifaux.ru/posts/post-162)
+- [Часть 1](http://malifaux.vercel.app/posts/post-162)
 
-- [Часть 2](http://malifaux.ru/posts/post-163)
+- [Часть 2](http://malifaux.vercel.app/posts/post-163)
 
-- [Часть 3](http://malifaux.ru/posts/post-164)
+- [Часть 3](http://malifaux.vercel.app/posts/post-164)
 
 
 -----
 ##### Бормочущие Орды
 
 ----
-- [Часть 1](http://malifaux.ru/posts/post-165)
+- [Часть 1](http://malifaux.vercel.app/posts/post-165)
 
-- [Часть 2](http://malifaux.ru/posts/post-166)
+- [Часть 2](http://malifaux.vercel.app/posts/post-166)
 
-- [Часть 3](http://malifaux.ru/posts/post-167)
+- [Часть 3](http://malifaux.vercel.app/posts/post-167)
 
 ----
 ##### Огни Святого Павла
 
 ----
-- [Часть 1](http://malifaux.ru/posts/post-150)
+- [Часть 1](http://malifaux.vercel.app/posts/post-150)
 
-- [Часть 2](http://malifaux.ru/posts/post-151)
+- [Часть 2](http://malifaux.vercel.app/posts/post-151)
 
-- [Часть 3](http://malifaux.ru/posts/post-152)
+- [Часть 3](http://malifaux.vercel.app/posts/post-152)
 
 
 ----
 ##### Светоч горящий
 
 ----
-- [Часть 1](http://malifaux.ru/posts/post-169)
+- [Часть 1](http://malifaux.vercel.app/posts/post-169)
 
-- [Часть 2](http://malifaux.ru/posts/post-170)
+- [Часть 2](http://malifaux.vercel.app/posts/post-170)
 
-- [Часть 3](http://malifaux.ru/posts/post-171)
+- [Часть 3](http://malifaux.vercel.app/posts/post-171)
 
-- [Часть 4](http://malifaux.ru/posts/post-172)
+- [Часть 4](http://malifaux.vercel.app/posts/post-172)
 
 
 ----
 ##### Совет Минервы
 
 ----
-- [Часть 1](http://malifaux.ru/posts/post-18)
+- [Часть 1](http://malifaux.vercel.app/posts/post-18)
 
-- [Часть 2](http://malifaux.ru/posts/post-19)
+- [Часть 2](http://malifaux.vercel.app/posts/post-19)
 
-- [Часть 3](http://malifaux.ru/posts/post-20)
+- [Часть 3](http://malifaux.vercel.app/posts/post-20)
 
 
 ----
 ##### Двор Двоих
 
 ----
-- [Часть 1](http://malifaux.ru/posts/post-118)
+- [Часть 1](http://malifaux.vercel.app/posts/post-118)
 
-- [Часть 2](http://malifaux.ru/posts/post-119)
+- [Часть 2](http://malifaux.vercel.app/posts/post-119)
 
-- [Часть 3](http://malifaux.ru/posts/post-120)
+- [Часть 3](http://malifaux.vercel.app/posts/post-120)
 
-- [Часть 4](http://malifaux.ru/posts/post-121)
+- [Часть 4](http://malifaux.vercel.app/posts/post-121)

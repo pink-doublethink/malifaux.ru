@@ -94,8 +94,8 @@ Bon courage, господин Мэттисон.
 ![..](/images/posts/post-68_img4.webp)
 
 
-Продолжение по [ссылке](http://malifaux.ru/posts/post-67).
+Продолжение по [ссылке](http://malifaux.vercel.app/posts/post-67).
 
 
-> **Автор перевода** - Никита Шевцов
+**Автор перевода** - Никита Шевцов
 

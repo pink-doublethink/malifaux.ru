@@ -83,7 +83,7 @@ reading: "6 минут чтения"
 ![..](/images/posts/post-73_img5.webp)
 
 
-Продолжение по [ссылке](http://malifaux.ru/posts/post-74).
+Продолжение по [ссылке](http://malifaux.vercel.app/posts/post-74).
 
 
 **Автор перевода** - Никита Шевцов

@@ -157,7 +157,7 @@ reading: "11 минут чтения"
 — Господа, мы можем начать?
 
 
-Продолжение по [ссылке](http://malifaux.ru/posts/post-44).
+Продолжение по [ссылке](http://malifaux.vercel.app/posts/post-44).
 
 
 

@@ -4,7 +4,7 @@
 ----
 - This repository contains the source code for a website designed to collect translated stories and articles about Malifaux. The site was created in collaboration with the administrators of the Malifaux <a target="_blank" href="https://vk.com/malifaux" rel="nofollow">VK group</a>.
 
-- <a target="_blank" href="https://malifaux.ru/" rel="nofollow">Live Demo</a>
+- <a target="_blank" href="https://malifaux.vercel.app/" rel="nofollow">Live Demo</a>
 
 - In this project I implemented: 
 	- has written enough Tailwind styles to finally remember its syntax;

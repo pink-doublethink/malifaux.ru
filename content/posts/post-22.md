@@ -9,7 +9,6 @@ image: /images/posts/post-0.webp
 categories:
   - Resurrectionists
   - Neverborn
-  - Arcanists
 draft: false
 reading: "10 минуты чтения"
 ---

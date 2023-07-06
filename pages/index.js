@@ -31,8 +31,8 @@ const Home = ({ posts }) => {
               />
               {markdownify(
                 name,
-                "h4",
-                "mt-12 text-6xl lg:text-7xl font-semibold"
+                "h1",
+                "mt-12 text-5xl lg:text-6xl"
               )}
               {markdownify(designation, "p", "mt-6 text-primary text-xl")}
               {markdownify(bio, "p", "mt-4 leading-9 text-xl")}

@@ -9,7 +9,6 @@ image: /images/posts/post-67.webp
 categories: 
   - Guild
   - Resurrectionists
-  - Arcanists
   - Ten Thunders
 draft: false
 reading: "6 минут чтения"
@@ -93,7 +92,7 @@ reading: "6 минут чтения"
 ![..](/images/posts/post-79_img6.webp)
 
 
-Продолжение по [ссылке](http://malifaux.ru/posts/post-80).
+Продолжение по [ссылке](http://malifaux.vercel.app/posts/post-80).
 
 
 **Автор перевода** - Никита Шевцов
