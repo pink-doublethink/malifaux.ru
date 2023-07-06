@@ -4,6 +4,7 @@ import Footer from "@partials/Footer";
 import Header from "@partials/Header";
 import { TaxonomySlugProvider } from "context/state";
 import Head from "next/head";
+import ScrollTop from "./components/ScrollTop";
 import { useRouter } from "next/router";
 
 const Base = ({
@@ -97,6 +98,7 @@ const Base = ({
 
       {/* main site */}
       <main>{children}</main>
+      <ScrollTop />
       <Footer />
     </>
   );
