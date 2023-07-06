@@ -87,7 +87,6 @@ draft: false
 
 ----
 ##### Цена Свинины
-
 ----
 - [Часть 1](http://malifaux.vercel.app/posts/post-40)
 
@@ -95,7 +94,6 @@ draft: false
 
 ----
 ##### Пуля
-
 ----
 - [Часть 1](http://malifaux.vercel.app/posts/post-42)
 
@@ -107,7 +105,6 @@ draft: false
 
 ----
 ##### Гремлин Генерал
-
 ----
 - [Часть 1](http://malifaux.vercel.app/posts/post-46)
 
@@ -117,7 +114,6 @@ draft: false
 
 ----
 ##### Дневник Эмилии Бельроуз
-
 ----
 - [Часть 1](http://malifaux.vercel.app/posts/post-56)
 
@@ -171,7 +167,6 @@ draft: false
 
 ----
 ##### Покойницкий бал
-
 ----
 - [Часть 1](http://malifaux.vercel.app/posts/post-81)
 
@@ -181,7 +176,6 @@ draft: false
 
 ----
 ##### Коробка-головоломка
-
 ----
 - [Часть 1](http://malifaux.vercel.app/posts/post-153)
 
@@ -192,7 +186,6 @@ draft: false
 
 ----
 ##### Как Вверху, Так И Внизу
-
 ----
 - [Часть 1](http://malifaux.vercel.app/posts/post-129)
 
@@ -203,16 +196,29 @@ draft: false
 
 ----
 ##### Кое-что о Молли
-
 ----
 - [Часть 1](http://malifaux.vercel.app/posts/post-132)
 
 - [Часть 2](http://malifaux.vercel.app/posts/post-133)
 
+----
+##### Всё, что горит
+----
+- [Часть 1](http://malifaux.vercel.app/posts/post-219)
+
+- [Часть 2](http://malifaux.vercel.app/posts/post-220)
+
+
+----
+##### Левиафановая братва
+----
+- [Часть 1](http://malifaux.vercel.app/posts/post-221)
+
+- [Часть 2](http://malifaux.vercel.app/posts/post-222)
+
 
 ----
 ##### Безумие Малифо
-
 ----
 - [Часть 1](http://malifaux.vercel.app/posts/post-136)
 
@@ -246,6 +252,36 @@ draft: false
 
 - [Часть 16](http://malifaux.vercel.app/posts/post-203)
 
+----
+##### Из теней
+----
+- [Часть 1](http://malifaux.vercel.app/posts/post-205)
+
+- [Часть 2](http://malifaux.vercel.app/posts/post-206)
+
+- [Часть 3](http://malifaux.vercel.app/posts/post-207)
+
+- [Часть 4](http://malifaux.vercel.app/posts/post-208)
+
+- [Часть 5](http://malifaux.vercel.app/posts/post-209)
+
+- [Часть 6](http://malifaux.vercel.app/posts/post-210)
+
+- [Часть 7](http://malifaux.vercel.app/posts/post-211)
+
+- [Часть 8](http://malifaux.vercel.app/posts/post-212)
+
+- [Часть 9](http://malifaux.vercel.app/posts/post-213)
+
+- [Часть 10](http://malifaux.vercel.app/posts/post-214)
+
+- [Часть 11](http://malifaux.vercel.app/posts/post-215)
+
+- [Часть 12](http://malifaux.vercel.app/posts/post-216)
+
+- [Часть 13](http://malifaux.vercel.app/posts/post-217)
+
+- [Часть 14](http://malifaux.vercel.app/posts/post-218)
 
 ----
 ### Общие описания персонажей и локаций
@@ -275,6 +311,8 @@ draft: false
 - [Невиновность: Маски сорваны](http://malifaux.vercel.app/posts/post-54)
 
 - [Невиновность сегодня](http://malifaux.vercel.app/posts/post-55)
+
+- [Сеятели](http://malifaux.vercel.app/posts/post-204)
 
 - [Мастера Общества Исследователей](http://malifaux.vercel.app/posts/post-173)
 
@@ -338,7 +376,6 @@ draft: false
 
 ----
 ##### История Малифо
-
 ----
 - [Часть 1](http://malifaux.vercel.app/posts/post-23)
 
@@ -351,7 +388,6 @@ draft: false
 
 ----
 ##### Карантинная зона
-
 ----
 -  [Часть 1](http://malifaux.vercel.app/posts/post-85)
 
@@ -458,7 +494,6 @@ draft: false
 
 -----
 ##### Абиссиния
-
 ----
 - [Часть 1](http://malifaux.vercel.app/posts/post-156)
 
@@ -468,7 +503,6 @@ draft: false
 
 -----
 ##### Королевская Империя
-
 ----
 - [Часть 1](http://malifaux.vercel.app/posts/post-159)
 
@@ -478,7 +512,6 @@ draft: false
 
 -----
 ##### Культ Горящего Человека
-
 ----
 - [Часть 1](http://malifaux.vercel.app/posts/post-162)
 
@@ -489,7 +522,6 @@ draft: false
 
 -----
 ##### Бормочущие Орды
-
 ----
 - [Часть 1](http://malifaux.vercel.app/posts/post-165)
 
@@ -499,7 +531,6 @@ draft: false
 
 ----
 ##### Огни Святого Павла
-
 ----
 - [Часть 1](http://malifaux.vercel.app/posts/post-150)
 
@@ -510,7 +541,6 @@ draft: false
 
 ----
 ##### Светоч горящий
-
 ----
 - [Часть 1](http://malifaux.vercel.app/posts/post-169)
 
@@ -523,7 +553,6 @@ draft: false
 
 ----
 ##### Совет Минервы
-
 ----
 - [Часть 1](http://malifaux.vercel.app/posts/post-18)
 
@@ -534,7 +563,6 @@ draft: false
 
 ----
 ##### Двор Двоих
-
 ----
 - [Часть 1](http://malifaux.vercel.app/posts/post-118)
 
