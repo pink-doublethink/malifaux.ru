@@ -2,7 +2,7 @@
 aliases: 
 - ⟪ ⟫
 title: "Всё, что горит. №2"
-date: 2023-06-22T06:00:00Z
+date: 2023-06-22T05:00:00Z
 description: "Всё, что горит. Часть 2"
 image: /images/posts/post-219.webp
 categories: 
