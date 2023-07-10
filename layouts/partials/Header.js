@@ -84,16 +84,16 @@ const Header = () => {
                     fill="currentcolor"
                   ></path>
                 </svg>
-                вернуться на главную
+                Вернуться на главную
               </Link>
             </div>
           )}
 
           <ul
             id="nav-menu"
-            className={`navbar-nav order-3 ${
+            className={`navbar-nav order-1 ${
               !openMenu && "hidden"
-            } w-full justify-center md:flex md:w-auto md:space-x-1 md:order-1`}
+            } w-full justify-center gap-x-8 gap-y-6 md:flex md:w-auto md:space-x-1 md:order-1 flex-wrap`}
           >
             {navMenu.map((menu, i) => (
               <React.Fragment key={`menu-${i}`}>
