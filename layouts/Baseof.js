@@ -19,6 +19,7 @@ const Base = ({
   const { meta_image, meta_description } = config.metadata;
   const { base_url } = config.site;
   const router = useRouter();
+  const Medal =  window.innerWidth > 1024 ? <ScrollTop /> : null;
 
   return (
     <>
@@ -98,7 +99,7 @@ const Base = ({
 
       {/* main site */}
       <main>{children}</main>
-      <ScrollTop />
+      {Medal}
       <Footer />
     </>
   );

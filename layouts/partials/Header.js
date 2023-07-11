@@ -93,7 +93,7 @@ const Header = () => {
             id="nav-menu"
             className={`navbar-nav order-1 ${
               !openMenu && "hidden"
-            } w-full justify-center gap-x-8 gap-y-6 md:flex md:w-auto md:space-x-1 md:order-1 flex-wrap`}
+            } w-full justify-center gap-x-2 gap-y-6 md:flex md:w-auto md:space-x-1 md:order-1 flex-wrap`}
           >
             {navMenu.map((menu, i) => (
               <React.Fragment key={`menu-${i}`}>
