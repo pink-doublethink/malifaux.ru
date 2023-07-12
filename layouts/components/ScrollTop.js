@@ -1,20 +1,10 @@
-import React, { useCallback, useState, useEffect, useMemo } from "react"
+import React, { useCallback, useState, useEffect } from "react"
 
 const ScrollTop=()=> {
     const [visible, setVisible] = useState(false);
     const [strict, setStrict] = useState(false);
-    const screenSize = useMemo(() => {
-        if (typeof window !== 'undefined') {
-            return window.innerWidth;
-          }
-          // Return a default value or handle the server-side scenario
-          return 0;
-    }, []);
     const handleResize = useCallback(() => {
-        if (typeof window !== 'undefined') {
-            setVisible(screenSize > 1025);
-            setStrict(screenSize > 1025);
-          }
+            setVisible(window.innerWidth > 1025);
         }, [])
     
     useEffect(() => {
@@ -36,7 +26,7 @@ const ScrollTop=()=> {
         const windowHeight = window.innerHeight;
         const threshold = windowHeight * 0.5;
         if (scrollPosition >= threshold) {setVisible(true); setStrict(true)}
-        else {setVisible(false); setStrict(false)};
+        else setVisible(false);;
     };
 
     useEffect(() => {
