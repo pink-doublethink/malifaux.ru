@@ -32,7 +32,7 @@ const Home = ({ posts }) => {
               {markdownify(
                 name,
                 "h1",
-                "mt-12 text-5xl lg:text-6xl"
+                "mt-12 text-4xl lg:text-6xl"
               )}
               {markdownify(designation, "p", "mt-6 text-primary text-xl")}
               {markdownify(bio, "p", "mt-4 leading-9 text-xl")}

@@ -2,7 +2,7 @@
 aliases: 
 - ⟪ ⟫
 title: "Левиафановая братва. №1"
-date: 2023-06-10T05:00:00Z
+date: 2023-06-10T06:00:00Z
 description: "Левиафановая братва. Часть 1"
 image: /images/posts/post-221.webp
 categories: 
