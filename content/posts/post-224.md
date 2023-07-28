@@ -3,7 +3,7 @@ aliases:
 - ⟪ ⟫
 title: "M3E Гайд: Ulix"
 date: 2020-06-20T09:00:00Z
-description: "M3E Гайд: Уликс"
+description: "Ознакомьтесь с уникальными способностями и статами мастера Ulix из игры Малифо. Узнайте о его умении Hitch A Ride, позволяющем перемещаться вблизи дружественных Beast моделей, и защитной способности Protected (Beast), способной уменьшить получаемый урон. Используйте его возможности с умом, чтобы доминировать на поле бояс"
 image: /images/posts/post-224.webp
 categories: 
   - Bayou
@@ -11,6 +11,7 @@ categories:
 draft: true
 reading: "14 минут чтения"
 ---
+
 
 ## Ulix Turner
 
