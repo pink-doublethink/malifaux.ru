@@ -4,7 +4,6 @@ import shortcodes from "./shortcodes/all";
 
 const Default = ({ data }) => {
   const { frontmatter, mdxContent } = data;
-  const { title } = frontmatter;
   return (
     <section className="!pt-[60px] pb-10">
       <div className="container">

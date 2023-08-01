@@ -30,20 +30,15 @@ const Base = ({
           )}
         </title>
 
-        {/* canonical url */}
         {canonical && <link rel="canonical" href={canonical} itemProp="url" />}
 
-        {/* noindex robots */}
         {noindex && <meta name="robots" content="noindex,nofollow" />}
 
-        {/* meta-description */}
         <meta 
           name="description"
           content={plainify(description ? description : meta_description)}
         />
         
-
-        {/* og-title */}
         <meta 
           property="og:title"
           content={plainify(
