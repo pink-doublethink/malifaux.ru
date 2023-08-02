@@ -77,7 +77,6 @@ const Base = ({
           content={`${base_url}${image ? image : meta_image}`}
         />
 
-        {/* twitter-image */}
         <meta
           name="twitter:image"
           content={`${base_url}${image ? image : meta_image}`}
@@ -91,7 +90,6 @@ const Base = ({
         </TaxonomySlugProvider>
       )}
 
-      {/* main site */}
       <main>{children}</main>
       <ScrollTop />
       <Footer />
