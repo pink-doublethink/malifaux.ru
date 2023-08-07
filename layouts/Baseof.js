@@ -86,7 +86,7 @@ const Base = ({
 
       {router.route !== "/posts/[single]" && (
         <TaxonomySlugProvider>
-          <Header />
+        <Header />
         </TaxonomySlugProvider>
       )}
 

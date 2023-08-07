@@ -33,7 +33,7 @@ const Contact = ({ data }) => {
                   </div>
                   <div className="mt-6 md:mt-0 md:col-6">
                     <label className="mb-2 block" htmlFor="email">
-                      Email
+                    Email
                     </label>
                     <input
                       className="form-input w-full"
