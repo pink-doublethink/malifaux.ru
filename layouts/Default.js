@@ -3,8 +3,7 @@ import { MDXRemote } from "next-mdx-remote";
 import shortcodes from "./shortcodes/all";
 
 const Default = ({ data }) => {
-  const { frontmatter, mdxContent } = data;
-  const { title } = frontmatter;
+  const { mdxContent } = data;
   return (
     <section className="!pt-[60px] pb-10">
       <div className="container">

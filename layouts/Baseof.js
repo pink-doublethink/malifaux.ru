@@ -30,20 +30,15 @@ const Base = ({
           )}
         </title>
 
-        {/* canonical url */}
         {canonical && <link rel="canonical" href={canonical} itemProp="url" />}
 
-        {/* noindex robots */}
         {noindex && <meta name="robots" content="noindex,nofollow" />}
 
-        {/* meta-description */}
         <meta 
           name="description"
           content={plainify(description ? description : meta_description)}
         />
         
-
-        {/* og-title */}
         <meta 
           property="og:title"
           content={plainify(
@@ -82,7 +77,6 @@ const Base = ({
           content={`${base_url}${image ? image : meta_image}`}
         />
 
-        {/* twitter-image */}
         <meta
           name="twitter:image"
           content={`${base_url}${image ? image : meta_image}`}
@@ -92,11 +86,10 @@ const Base = ({
 
       {router.route !== "/posts/[single]" && (
         <TaxonomySlugProvider>
-          <Header />
+        <Header />
         </TaxonomySlugProvider>
       )}
 
-      {/* main site */}
       <main>{children}</main>
       <ScrollTop />
       <Footer />

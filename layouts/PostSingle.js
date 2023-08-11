@@ -37,7 +37,7 @@ const PostSingle = ({ post, mdxContent, slug, posts }) => {
                     fill="currentcolor"
                   ></path>
                 </svg>
-                Вернуться на Главную
+                  Вернуться на Главную
               </Link>
               <article>
                 {image && (
