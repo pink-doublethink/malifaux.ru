@@ -19,7 +19,6 @@ const App = ({ Component, pageProps }) => {
     ).then((res) => res.text().then((css) => setFontcss(css)));
   }, [pf, sf]);
 
- 
   const tagManagerArgs = {
     gtmId: config.params.tag_manager_id,
   };
