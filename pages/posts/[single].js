@@ -11,7 +11,6 @@ const Article = ({ post, mdxContent, slug, posts }) => {
   );
 };
 
-
 export const getStaticPaths = () => {
   const allSlug = getSinglePage(`content/${blog_folder}`);
   const paths = allSlug.map((item) => ({
@@ -25,7 +24,6 @@ export const getStaticPaths = () => {
     fallback: false,
   };
 };
-
 
 export const getStaticProps = async ({ params }) => {
   const { single } = params;

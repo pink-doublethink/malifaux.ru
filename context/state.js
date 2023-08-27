@@ -2,6 +2,7 @@ import { createContext, useContext } from "react";
 import posts from "../.json/posts.json";
 
 const HeaderContext = createContext();
+
 export const TaxonomySlugProvider = ({ children }) => {
   const categories = [
     ...new Set(
@@ -17,6 +18,7 @@ export const TaxonomySlugProvider = ({ children }) => {
     </HeaderContext.Provider>
   );
 };
+
 export const useHeaderContext = () => {
   return useContext(HeaderContext);
 };

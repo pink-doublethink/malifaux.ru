@@ -42,7 +42,6 @@ const BlogPagination = ({ posts, currentPage, pagination }) => {
 
 export default BlogPagination;
 
-
 export const getStaticPaths = () => {
   const getAllSlug = getSinglePage(`content/${blog_folder}`);
   const allSlug = getAllSlug.map((item) => item.slug);

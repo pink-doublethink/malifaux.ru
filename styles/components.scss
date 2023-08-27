@@ -1,14 +1,11 @@
-// section style
 .section {
   @apply py-28;
 }
 
-// container
 .container {
   @apply mx-auto max-w-[1140px] px-3 xl:max-w-[1320px];
 }
 
-// form style
 .form-inputs * {
   @apply mb-5 leading-10;
 }
@@ -18,7 +15,6 @@
   @apply border border-border bg-transparent py-3 px-5 placeholder:text-text/50 focus:border-border focus:bg-[#202e3c] focus:ring-transparent;
 }
 
-// social icon style
 .social-share {
   @apply space-x-4;
   li {
@@ -32,7 +28,6 @@
   }
 }
 
-//profile
 .profile-social-icons {
   li {
     @apply mx-3;
@@ -47,7 +42,6 @@
   }
 }
 
-// content style
 .content {
   @apply prose max-w-none;
   @apply prose-headings:mt-4 prose-headings:font-normal prose-headings:text-dark;
@@ -76,12 +70,10 @@
   }
 }
 
-//card
 .card {
   @apply rounded border border-border p-6 lg:p-9;
 }
 
-//tab
 .tab-item {
   h5 {
     @apply mt-0;
@@ -96,7 +88,6 @@
   @apply bg-[#242e38];
 }
 
-//gallery
 .gallery {
   &-item {
     margin-top: 30px;
@@ -125,7 +116,6 @@
   }
 }
 
-//notice
 .notice {
   @apply border-t-[30px] text-dark;
 

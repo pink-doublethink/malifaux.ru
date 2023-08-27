@@ -17,6 +17,7 @@
     @apply absolute right-0 bottom-0 h-[1px] w-0 bg-primary transition-all duration-200 content-[""];
   }
 
+  
   &:hover::after {
     @apply right-auto left-0 w-full;
   }
