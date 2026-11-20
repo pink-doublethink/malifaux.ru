@@ -2,7 +2,7 @@ import menu from "@config/menu.json";
 import { useHeaderContext } from "context/state";
 import Link from "next/link";
 import { useRouter } from "next/router";
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 const Header = () => {
   // router
   const router = useRouter();
@@ -12,31 +12,25 @@ const Header = () => {
 
   //local state
   const [openMenu, setOpenMenu] = useState(false);
-  const [navMenu, setNavMenu] = useState(
-    menu.main.map((item) => ({ ...item, type: "main" }))
-  );
+  // Derive the nav menu from the current route during render instead of
+  // syncing it into state inside an effect.
+  const matchRoute = menu.main.find((item) => item.url === router.asPath);
+  const navList = [...menu.main];
 
-  useEffect(() => {
-    const matchRoute = menu.main.find((item) => item.url === router.asPath);
-    const navList = [...menu.main];
-
-    if (matchRoute) {
-      if (matchRoute.url === "/") {
-        const arr = categories.slice(0, 4);
-        navList.splice(1, 0, ...arr);
-        setNavMenu(navList);
-      } else {
-        setNavMenu(menu.main);
-      }
+  let navMenu;
+  if (matchRoute) {
+    if (matchRoute.url === "/") {
+      navList.splice(1, 0, ...categories.slice(0, 4));
+      navMenu = navList;
     } else {
-      //if route not match
-      navList.splice(1, 0, ...categories);
-      navList.splice(navList.length - 2, menu.main.length - 1);
-      setNavMenu(navList);
+      navMenu = menu.main;
     }
-
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [router.asPath, menu.main, categories]);
+  } else {
+    // if route does not match
+    navList.splice(1, 0, ...categories);
+    navList.splice(navList.length - 2, menu.main.length - 1);
+    navMenu = navList;
+  }
 
   return (
     <>

@@ -44,8 +44,8 @@ const PostSingle = ({ post, mdxContent, slug, posts }) => {
                   <Image
                     // className="w-full"
                     src={image}
-                    height="250"
-                    width="500"
+                    height={250}
+                    width={500}
                     alt={title}
                     priority={true}
                   />

@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Малифабриум - Главная",
-    "base_url": "http://malifaux.ru/",
+    "base_url": "https://malifaux.ru",
     "favicon": "/images/M3ed.png"
   },
 
@@ -24,12 +24,7 @@
 
   "metadata": {
     "meta_author": "",
-    "meta_image": "",
+    "meta_image": "/images/M3ed.png",
     "meta_description": "Малифабриум — это тщательно составленная подборка рассказов по Малифо"
-  },
-
-  "disqus": {
-    "enable": true,
-    "shortname": "themefisher-template"
   }
 }

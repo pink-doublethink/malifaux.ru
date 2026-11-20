@@ -11,16 +11,34 @@
 	- spent a lot of time building all sorts of widgets to embed in the mardown files;
 
 ----
+### Requirements
+----
+
+- **Node.js 24.x** — the exact version is pinned in `.nvmrc`. Run `nvm use` in the project root to switch to it before installing or building.
+
+----
 ### Install and run commands
 ----
 
 Clone the repository on your computer. Then run the following commands from the root of the project, from the terminal:
 
-| Command                | Action                                             |
-| :--------------------- | :------------------------------------------------- |
-| `npm install`          | Installs dependencies                              |
-| `npm run dev`          | Starts local dev server at `localhost:3000`        |
-| `npm run build`        | Build your production site to `./.next`    |   
+| Command            | Action                                                              |
+| :----------------- | :------------------------------------------------------------------ |
+| `npm ci`           | Installs dependencies from `package-lock.json` (reproducible build) |
+| `npm run dev`      | Starts local dev server at `localhost:3000`                         |
+| `npm run lint`     | Runs ESLint over the whole project                                  |
+| `npm run lint:fix` | Runs ESLint and auto-fixes issues                                   |
+| `npm run build`    | Runs `node lib/jsonGenerator.js`, then builds to `./.next`          |
+
+----
+### Deploy to Vercel
+----
+
+The project is configured for deployment on Vercel with the SSG rendering model. See `vercel.json` for the framework, install/build commands and region (`fra1`).
+
+Vercel runs `npm ci` and then `npm run build`. The `build` script executes `node lib/jsonGenerator.js` **before** `next build`, so the JSON data files under `.json/` are regenerated on every deploy — do not replace `npm run build` with a bare `next build`.
+
+After a Preview or Production deploy, follow the verification checklist in [DEPLOYMENT.md](./DEPLOYMENT.md).
 
 ----
 ### Contributing

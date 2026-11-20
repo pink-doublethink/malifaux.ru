@@ -20,6 +20,9 @@ const Base = ({
   const { base_url } = config.site;
   const router = useRouter();
 
+  const baseUrl = (base_url || "").replace(/\/+$/, "");
+  const ogImage = image || meta_image || "/images/M3ed.png";
+
   return (
     <>
       <Head>
@@ -54,7 +57,7 @@ const Base = ({
         <meta property="og:type" content="website" />
         <meta
           property="og:url"
-          content={`${base_url}/${router.asPath.replace("/", "")}`}
+          content={`${baseUrl}${router.asPath}`}
         />
 
         {/* twitter-title */}
@@ -74,12 +77,12 @@ const Base = ({
         {/* og-image */}
         <meta
           property="og:image"
-          content={`${base_url}${image ? image : meta_image}`}
+          content={`${baseUrl}${ogImage}`}
         />
 
         <meta
           name="twitter:image"
-          content={`${base_url}${image ? image : meta_image}`}
+          content={`${baseUrl}${ogImage}`}
         />
         <meta name="twitter:card" content="summary_large_image" />
       </Head>

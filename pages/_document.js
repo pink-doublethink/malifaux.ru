@@ -4,7 +4,7 @@ import { Head, Html, Main, NextScript } from "next/document";
 const Document = () => {
   const { favicon } = config.site;
   return (
-    <Html lang="en">
+    <Html lang="ru">
       <Head>
         <link rel="shortcut icon" href={favicon} />
         <meta

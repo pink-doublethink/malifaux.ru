@@ -1,14 +1,9 @@
-import { FlatCompat } from "@eslint/eslintrc";
+import { defineConfig, globalIgnores } from "eslint/config";
+import nextVitals from "eslint-config-next/core-web-vitals";
 
-const compat = new FlatCompat({
-  baseDirectory: import.meta.dirname,
-});
-
-const eslintConfig = [
-  ...compat.extends("next/core-web-vitals"),
-  {
-    ignores: [".next/**", "out/**", "build/**", ".vercel/**"],
-  },
+const eslintConfig = defineConfig([
+  globalIgnores([".vercel/**"]),
+  ...nextVitals,
   {
     files: [
       "next.config.js",
@@ -25,6 +20,6 @@ const eslintConfig = [
       },
     },
   },
-];
+]);
 
 export default eslintConfig;

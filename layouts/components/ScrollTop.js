@@ -1,14 +1,15 @@
 import React, { useCallback, useState, useEffect } from "react"
 
 const ScrollTop=()=> {
-    const [visible, setVisible] = useState(false);
+    const [visible, setVisible] = useState(
+      () => typeof window !== "undefined" && window.innerWidth > 1025
+    );
     const [strict, setStrict] = useState(false);
     const handleResize = useCallback(() => {
             setVisible(window.innerWidth > 1025);
         }, [])
     
     useEffect(() => {
-        handleResize();
         window.addEventListener('resize', handleResize);
         return () => window.removeEventListener('resize', handleResize);
     }, [handleResize]);

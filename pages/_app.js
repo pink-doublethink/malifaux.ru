@@ -19,23 +19,21 @@ const App = ({ Component, pageProps }) => {
     ).then((res) => res.text().then((css) => setFontcss(css)));
   }, [pf, sf]);
 
-  const tagManagerArgs = {
-    gtmId: config.params.tag_manager_id,
-  };
+  const gtmId = config.params.tag_manager_id;
   useEffect(() => {
     setTimeout(() => {
       process.env.NODE_ENV === "production" &&
-        config.params.tag_manager_id &&
-        TagManager.initialize(tagManagerArgs);
+        gtmId &&
+        TagManager.initialize({ gtmId });
     }, 5000);
-    
-  }, []);
+  }, [gtmId]);
 
   return (
     <>
       <Head>
-        
-        
+        {fontcss && (
+          <style dangerouslySetInnerHTML={{ __html: fontcss }} />
+        )}
         <meta
           name="viewport"
           content="width=device-width, initial-scale=1, maximum-scale=5"
