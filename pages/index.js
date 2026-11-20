@@ -6,6 +6,7 @@ import Pagination from "@layouts/components/Pagination";
 import Post from "@layouts/components/Post";
 import Social from "@layouts/components/Social";
 import { getSinglePage } from "@lib/contentParser";
+import { toPostSummaries } from "@lib/utils/postSummary";
 import { sortByDate } from "@lib/utils/sortFunctions";
 import { markdownify } from "@lib/utils/textConverter";
 const { blog_folder } = config.settings;
@@ -74,7 +75,7 @@ export default Home;
 
 // for homepage data
 export const getStaticProps = async () => {
-  const posts = getSinglePage(`content/${blog_folder}`);
+  const posts = toPostSummaries(getSinglePage(`content/${blog_folder}`));
   return {
     props: {
       posts: posts,

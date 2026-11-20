@@ -3,6 +3,7 @@ import Base from "@layouts/Baseof";
 import config from "@config/config.json";
 import Post from "@layouts/components/Post";
 import { getSinglePage } from "@lib/contentParser";
+import { toPostSummaries } from "@lib/utils/postSummary";
 import { sortByDate } from "@lib/utils/sortFunctions";
 const { blog_folder } = config.settings;
 
@@ -67,7 +68,7 @@ export const getStaticPaths = () => {
 export const getStaticProps = async ({ params }) => {
   const currentPage = parseInt((params && params.slug) || 1);
   const { pagination } = config.settings;
-  const posts = getSinglePage(`content/${blog_folder}`);
+  const posts = toPostSummaries(getSinglePage(`content/${blog_folder}`));
 
   return {
     props: {

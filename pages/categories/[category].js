@@ -3,6 +3,7 @@ import Base from "@layouts/Baseof";
 import Post from "@layouts/components/Post";
 import { getSinglePage } from "@lib/contentParser";
 import { getTaxonomy } from "@lib/taxonomyParser";
+import { toPostSummaries } from "@lib/utils/postSummary";
 import { sortByDate } from "@lib/utils/sortFunctions";
 import { slugify } from "@lib/utils/textConverter";
 
@@ -61,7 +62,7 @@ export const getStaticProps = ({ params }) => {
 
   return {
     props: {
-      posts: filteredPosts,
+      posts: toPostSummaries(sortedPosts),
       slug: params.category,
     },
   };

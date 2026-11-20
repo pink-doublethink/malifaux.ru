@@ -9,7 +9,7 @@ import Link from "next/link";
 import Base from "./Baseof";
 import Post from "./components/Post";
 const PostSingle = ({ post, mdxContent, slug, posts }) => {
-  const { frontmatter, content } = post[0];
+  const { frontmatter, content } = post;
   let { description, title, date, image, categories, reading } = frontmatter;
   description = description ? description : content.slice(0, 120);
   const similarPosts = similerItems(post, posts, slug);
