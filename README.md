@@ -14,7 +14,7 @@
 ### Requirements
 ----
 
-- **Node.js 24.x** — the exact version is pinned in `.nvmrc`. Run `nvm use` in the project root to switch to it before installing or building.
+- **Node.js 26.x** — the exact version is pinned in `.nvmrc`. Run `nvm use` in the project root to switch to it before installing or building.
 
 ----
 ### Install and run commands
